@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Quantum.ChunkedNeuralNetwork
+namespace QuantumNeuralNetwork
 {
     class Program
     {

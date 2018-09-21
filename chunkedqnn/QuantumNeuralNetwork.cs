@@ -2,7 +2,7 @@
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
 
-namespace Quantum.ChunkedNeuralNetwork
+namespace QuantumNeuralNetwork
 {
     public class CoupledTwoQubitQNN
     {

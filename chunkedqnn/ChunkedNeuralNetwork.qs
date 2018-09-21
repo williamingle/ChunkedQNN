@@ -1,4 +1,4 @@
-﻿namespace Quantum.ChunkedNeuralNetwork
+﻿namespace QuantumNeuralNetwork
 {
     // Including the namespace Primitive gives access to basic operations such as the 
     // Hadamard gates, CNOT gates, etc. that are useful for defining circuits. The 
